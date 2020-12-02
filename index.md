@@ -330,6 +330,7 @@ dvc diff
 
 ![bg brightness:50%](https://source.unsplash.com/bdBeUfTShtA)
 
+>
 ---
 
 # Ок, но это консоль
@@ -438,7 +439,7 @@ result = client.create_model_version(
 
 # MLFLOW SERVING
 
-![bg fit](images/mlflow-serve.png)
+![bg 90%](images/mlflow-serve2.png)
 
 --- 
 
